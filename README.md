@@ -13,3 +13,4 @@ Seção 4: Aprenda a Linguagem de Programação Java do Zero - Semana 2
   25. Operadores básicos aritméticos
   26. Operadores relacionais e lógicos
   27. Estruturas condicionais if else
+  28. Operadores ternários e switch
