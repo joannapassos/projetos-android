@@ -16,3 +16,4 @@ Seção 4: Aprenda a Linguagem de Programação Java do Zero - Semana 2
   28. Operadores ternários e switch
   29. Entenda Arrays
   30. Loops while
+  31. Loops - exibindo listas
