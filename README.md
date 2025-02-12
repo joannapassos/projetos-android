@@ -17,3 +17,4 @@ Seção 4: Aprenda a Linguagem de Programação Java do Zero - Semana 2
   29. Entenda Arrays
   30. Loops while
   31. Loops - exibindo listas
+  32. Loops - do..while e for
