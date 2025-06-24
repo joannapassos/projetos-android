@@ -33,3 +33,7 @@ Seção 5: Aprenda orientação a objetos com Java - Semana 3
   53:
 
   Pausa (reunião com gabs segunda)
+
+- Tarefa 1:
+Criar um projeto novo criar uma lista simples que exiba title e subtile dentro de um card
+Usar um coin como injeção de dependência
