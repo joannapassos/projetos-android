@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Configurando o Ambiente",
+    "subtitle": "Passo a passo para instalar o Android Studio e o SDK.",
+    "imageUrl": "https://picsum.photos/seed/android/200"
+  },
+  {
+    "id": 2,
+    "title": "Princípios SOLID",
+    "subtitle": "Aprendendo a base para um código limpo e sustentável.",
+    "imageUrl": "https://picsum.photos/seed/solid/200"
+  },
+  {
+    "id": 3,
+    "title": "Jetpack Compose",
+    "subtitle": "Construindo UIs declarativas com o poder do Kotlin.",
+    "imageUrl": "https://picsum.photos/seed/compose/200"
+  },
+  {
+    "id": 4,
+    "title": "Injeção de Dependência com Koin",
+    "subtitle": "Desacoplando as camadas da sua aplicação.",
+    "imageUrl": "https://picsum.photos/seed/koin/200"
+  }
+]
